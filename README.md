@@ -30,4 +30,21 @@ This is a simple console-based banking system developed in C#. The application a
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/sandeeppaldotnet/console-banking-system.git
+Open the project in your IDE.
+Build the project to restore any dependencies.
+Run the application.
+Usage
+When the application starts, you will see a menu with options to create an account, deposit money, withdraw money, check balance, or exit.
+Follow the prompts to complete your transactions.
+
+Welcome to the Banking System
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+Please select an option: 1
+Enter account holder's name: John Doe
+Enter initial deposit amount: 1000
+Account created successfully! Account ID: 1
 
