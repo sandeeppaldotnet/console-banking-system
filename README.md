@@ -29,5 +29,5 @@ This is a simple console-based banking system developed in C#. The application a
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/console-banking-system.git
+   git clone https://github.com/sandeeppaldotnet/console-banking-system.git
 
